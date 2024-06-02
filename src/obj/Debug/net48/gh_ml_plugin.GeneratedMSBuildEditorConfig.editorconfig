@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = gh_ml_plugin
+build_property.ProjectDir = C:\Users\cabrals\Documents\ml_gh\src\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
